@@ -1,6 +1,10 @@
 # random-code
 Some past coding challenges and student assignments
 
+### 11032021imagecleaning (Python)
+
+Tweaked code from a previous assignment for use in [this article](https://jenine-c.medium.com/a3c67ad42e3a)
+
 ### 10122020shortestpath.py
 
 Random coding question on finding shortest path for 2D matrix; no feedback received but 5/5 test cases passed
